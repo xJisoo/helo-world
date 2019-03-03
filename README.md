@@ -1,2 +1,2 @@
 # helo-world
-testing branches in github.
+testing branches and pull request on fedora 29 in github.
